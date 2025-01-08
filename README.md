@@ -11,9 +11,7 @@ This is a portfolio website showcasing my skills, projects, and professional exp
 - **Downloadable Resume**: Provides a link to download my resume.
 - **Links**: Includes links to my GitHub and ResearchGate profiles.
 
-## Live Demo
-You can view the live site hosted on GitHub Pages:  
-https://idrissbado.github.io/portfolio/
+
 
 ## Files Included
 - `idriss.html`: The main HTML file.
