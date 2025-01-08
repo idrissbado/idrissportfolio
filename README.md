@@ -16,7 +16,7 @@ You can view the live site hosted on GitHub Pages:
 https://idrissbado.github.io/portfolio/
 
 ## Files Included
-- `index.html`: The main HTML file.
+- `idriss.html`: The main HTML file.
 - `idrissbadoresumeprojet.pdf`: My downloadable resume.
 
 
